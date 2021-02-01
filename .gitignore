@@ -118,6 +118,9 @@ dist
 # Stores VSCode versions used for testing VSCode extensions
 .vscode-test
 
+# Ignore all local history of files
+**/.history
+
 # IDE - VSCode
 .vscode/*
 !.vscode/settings.json
