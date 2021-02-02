@@ -1,18 +1,19 @@
 # LOGIN_SM_INTEGRATION
 
-> A website (university project) dedicated to get familiar with web-framworks.
+> A website (university project) dedicated to getting familiar with web-frameworks.
 > Node.js/Express and React.js
 > Login functionality, email&password, 2 login providers (Twitter and Google) via Firebase
-> Media (imgae/video) handeling, using Twitter API and users' Oauth.
+> Media (image/video) handling, using Twitter API and users' Oauth.
 > Responsive layout, using bootstrap.
+
 
 ### FULL SYSTEM DOCUMENTATION
 
 This version deliverables
 
-- [View Documentation Here](https://drive.google.com/file/d/1ellKY_bEZyL58M1W2JcbsqEheoE8pnJq/view?usp=sharing)
+- [View Documentation Here](https://drive.google.com/file/d/1TGxBDGUFUL7cHvv2M1TYjBdL3f1zjzv7/view?usp=sharing)
 
-- [View Prototype Here](https://youtu.be/C4y5vagvahM)
+- [View Prototype Here](https://youtu.be/DZh0HRcSS_Q)
 
 ### Constrains
 
