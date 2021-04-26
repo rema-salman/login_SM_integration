@@ -10,7 +10,7 @@
 
 This version deliverables
 
-- [View Documentation Here](https://drive.google.com/file/d/1ellKY_bEZyL58M1W2JcbsqEheoE8pnJq/view?usp=sharing)
+- View Documentation in Report.pdf
 
 - [View Prototype Here](https://youtu.be/C4y5vagvahM)
 
